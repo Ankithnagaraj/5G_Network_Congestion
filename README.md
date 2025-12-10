@@ -2,6 +2,7 @@
 
 A hybrid ML system that predicts congestion in 5G networks by combining **supervised learning (prediction)** and **unsupervised learning (clustering)**. The model analyzes traffic patterns, detects anomalies, and forecasts congestion to improve **QoS**, **network reliability**, and **decision-making**.
 
+![image alt](https://github.com/Ankithnagaraj/5G_Network_Congestion/blob/104a9908d41eb3bc0afe4786af9730e4d9e6ab9e/images/intro.png)
 ---
 
 ## 🚀 Table of Contents
